@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=D214D1&random=false&width=435&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Somnath!;%F0%9F%9A%80+A+freelancer+with+a+passion+for+innovation.;%F0%9F%92%BB+Full-stack+developer%2C+ready+to+code+magic!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=D214D1&random=false&width=900&lines=%F0%9F%91%8B+Hey+there%2C+I'm+Somnath!;%F0%9F%9A%80+A+freelancer+with+a+passion+for+innovation.;%F0%9F%92%BB+Full-stack+developer%2C+ready+to+code+magic!)](https://git.io/typing-svg)
 
 
 <br>
@@ -23,7 +23,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Somnath553&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 
 
